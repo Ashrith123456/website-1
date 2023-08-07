@@ -1,0 +1,29 @@
+body{background-image: url("http://www.pixelstalk.net/wp-content/uploads/2016/08/Cool-nature-backgrounds-hd-resolution-1920x1080.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+    }
+    button{background-color:darkslategrey; color:greenyellow; cursor:pointer; transition: 0.12s;}
+    button:hover {
+      opacity: 0.9;
+      color: darkslategrey;
+      background-color: rgb(43, 194, 26);
+      box-shadow: 10px 10px 10px black;
+    }
+    #blahblah {font-family: "press start 2p"; text-align:center; background-color:#E00232; border:solid; border-radius:15px; border-color: white;}
+    h2{color:black; text-align: center;}
+    #hello2{background-color: lightsteelblue; color:black; text-align: center; border: solid; border-radius: 10px; border-color: red;}
+    .img2{
+      display:block;
+      margin-left:auto;
+      margin-right:auto;
+    }
+    #blahblah{
+      border-style: solid; 
+      color:black; 
+      background-color: #E00232; 
+      border-color: black;
+      text-align: center;
+      border-radius: 10px;
+    }
